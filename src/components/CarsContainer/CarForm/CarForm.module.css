@@ -1,0 +1,29 @@
+.car_form{
+    background-color: lightblue;
+    margin-top: 0.5em;
+    display: flex;
+}
+input{
+    margin-left:0.5em ;
+    border-radius: 0.4em;
+    border: 1px solid lightblue;
+    font-size: 1.2em;
+    display: block;
+}
+
+.car_form button{
+    display: block;
+    font-size: 1.2em;
+    padding: 0.4em;
+    margin: 0.2em 0.5em;
+    border: 1px solid red;
+    border-radius: 0.4em;
+
+}
+.col_1{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
